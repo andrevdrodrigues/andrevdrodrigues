@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-André Rodrigues</a></h1>
+<h1 align="center">Hi 👋, I'm André Rodrigues</a></h1>
 <h3 align="center">An Experienced QA Engineer from Santos, Brazil</h3>
 
 - 🔭 I’m currently working in <a href="https://www.farfetch.com/" target="blank">FARFETCH</a>
@@ -10,8 +9,8 @@ André Rodrigues</a></h1>
 - ⚡ Who I am: 
   - Learner by vocation :student:
   - Passionate about creativity and innovation :nerd_face:
-  - Pun maker :joy:
   - Crossfiter :muscle:
-  - Beer and Winer lover :beer: :wine_glass:
+  - Coffee lover :coffee
+  - Pun maker :joy:
   - Toy Story Fan :movie_camera:
   - Christian :pray:
