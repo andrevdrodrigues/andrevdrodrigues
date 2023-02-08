@@ -10,7 +10,7 @@
   - Learner by vocation :student:
   - Passionate about creativity and innovation :nerd_face:
   - Crossfiter :muscle:
-  - Coffee lover :coffee
-  - Pun maker :joy:
+  - Coffee lover :coffee:
+  - Pun Maker :joy:
   - Toy Story Fan :movie_camera:
   - Christian :pray:
