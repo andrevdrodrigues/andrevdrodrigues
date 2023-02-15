@@ -11,7 +11,7 @@
 ## More About Me :man:
 
   - Learner by vocation :student:
-  - Beginner mindset(**open to learning**) :apple: 
+  - Beginner mindset (**open to learning**) :apple: 
   - Passionate about creativity and innovation :nerd_face:
   - Crossfiter :muscle:
   - Coffee lover :coffee:
