@@ -2,7 +2,6 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm André Rodrigues, an Experienced QA Engineer.
 
 - :brazil: I’m from Santos, Brazil
-- 🔭 I’m currently working in <a href="https://www.farfetch.com/" target="blank">FARFETCH</a>
 - 🌱 I’m currently learning Kubernetes and Cloud Native Solutions
 - 👯 I’m looking to collaborate on Test Automation Frameworks and QA Guidelines
 - 💬 Ask me about Software Testing, Quality Assurance and Software Architecture
