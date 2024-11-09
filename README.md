@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on Test Automation Frameworks and QA Guidelines
 - 💬 Ask me about Software Testing, Quality Assurance and Software Architecture
 
-
 ## More About Me :man:
 
   - Learner by vocation :student:
